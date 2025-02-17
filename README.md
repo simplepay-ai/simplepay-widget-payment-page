@@ -2,11 +2,15 @@
 
 This is White label and self-hosted [SimplePay Payment Widget](https://widget.simplepay.ai) project bootstrap integration with [Next.js 19](https://nexjs.org) and [Vercel](vercel.com) serverless web hosting.
 
-<img src="https://dev.simplepay.ai/~gitbook/image?url=https%3A%2F%2F3504918617-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXps6Hpvtcnwm326Ywnfb%252Fuploads%252FEt60dTXZCc1RhKqNCI1j%252Fscreenshot-1.png%3Falt%3Dmedia%26token%3D607e5226-0105-4f54-ac44-1357b47dab71&width=768&dpr=2&quality=100&sign=d0fd374&sv=2" alt="SimplePay widget preview" width="250" />
+<table>
+  <tr>
+<td><img src="https://dev.simplepay.ai/~gitbook/image?url=https%3A%2F%2F3504918617-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXps6Hpvtcnwm326Ywnfb%252Fuploads%252FEt60dTXZCc1RhKqNCI1j%252Fscreenshot-1.png%3Falt%3Dmedia%26token%3D607e5226-0105-4f54-ac44-1357b47dab71&width=768&dpr=2&quality=100&sign=d0fd374&sv=2" alt="SimplePay widget preview" width="250" /></td>
 
-<img src="https://dev.simplepay.ai/~gitbook/image?url=https%3A%2F%2F3504918617-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXps6Hpvtcnwm326Ywnfb%252Fuploads%252Ffhs3wjBUerjCA9kEB2HJ%252Fscreenshot-2.png%3Falt%3Dmedia%26token%3D02ad6538-f14f-496d-9b5f-8c5def7cad54&width=768&dpr=2&quality=100&sign=17826e76&sv=2" alt="SimplePay widget preview" width="250" />
+<td><img src="https://dev.simplepay.ai/~gitbook/image?url=https%3A%2F%2F3504918617-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXps6Hpvtcnwm326Ywnfb%252Fuploads%252Ffhs3wjBUerjCA9kEB2HJ%252Fscreenshot-2.png%3Falt%3Dmedia%26token%3D02ad6538-f14f-496d-9b5f-8c5def7cad54&width=768&dpr=2&quality=100&sign=17826e76&sv=2" alt="SimplePay widget preview" width="250" /></td>
 
-<img src="https://dev.simplepay.ai/~gitbook/image?url=https%3A%2F%2F3504918617-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXps6Hpvtcnwm326Ywnfb%252Fuploads%252F6SDHYGL3405IG5RFxniW%252Fscreenshot-3.png%3Falt%3Dmedia%26token%3Dd2842a6d-1361-4951-8f92-362be6327ade&width=768&dpr=2&quality=100&sign=33b24471&sv=2" alt="SimplePay widget preview" width="250" />
+<td><img src="https://dev.simplepay.ai/~gitbook/image?url=https%3A%2F%2F3504918617-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXps6Hpvtcnwm326Ywnfb%252Fuploads%252F6SDHYGL3405IG5RFxniW%252Fscreenshot-3.png%3Falt%3Dmedia%26token%3Dd2842a6d-1361-4951-8f92-362be6327ade&width=768&dpr=2&quality=100&sign=33b24471&sv=2" alt="SimplePay widget preview" width="250" /></td>
+  </tr>
+</table>
 
 ## Getting Started
 
